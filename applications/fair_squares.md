@@ -9,7 +9,7 @@
 
 ### Overview
 
-- Fair Squares aims is to co-create a more transparent and fair housing market for tenants, co-owners and social investors. In order to make rental housing more affordable and accessible to a larger group of people.
+  Fair Squares aims is to co-create a more transparent and fair housing market for tenants, co-owners and social investors. In order to make rental housing more affordable and accessible to a larger group of people.
 
 
 - Project Description.
